@@ -1,6 +1,6 @@
 {
   "name": "marriott",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "marriott hotels price fetcher",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sayoou/marriott.git"
+    "url": "https://github.com/StayExpert/marriott.git"
   },
   "keywords": [
     "spg",
@@ -19,9 +19,9 @@
   "author": "turing <o.u.turing@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sayoou/marriott/issues"
+    "url": "https://github.com/StayExpert/marriott/issues"
   },
-  "homepage": "https://github.com/sayoou/marriott",
+  "homepage": "https://github.com/StayExpert/marriott",
   "dependencies": {
     "cheerio": "^0.18.0",
     "debug": "^2.1.0",

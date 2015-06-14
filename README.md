@@ -1,4 +1,4 @@
-## marriott ![NPM version](https://img.shields.io/npm/v/marriott.svg?style=flat) 
+## Marriott ![NPM version](https://img.shields.io/npm/v/marriott.svg?style=flat) 
 
 a SDK of marriott hotels APIs.
 
